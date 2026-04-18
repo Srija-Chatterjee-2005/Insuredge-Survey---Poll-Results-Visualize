@@ -346,6 +346,6 @@ Charts not saving if the images folder does not exist.
 
 ### **Srija Chatterjee**
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+🔗 LinkedIn: https://www.linkedin.com/in/srija-chatterjee-82a539308?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-🐙 GitHub: https://www.linkedin.com/in/srija-chatterjee-82a539308?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🐙 GitHub: : https://github.com/Srija-Chatterjee-2005
