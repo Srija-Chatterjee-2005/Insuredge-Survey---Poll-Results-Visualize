@@ -174,33 +174,7 @@ Survey Data → Cleaning → Analysis → Visualization → Dashboard → Insigh
 ## **📂 Folder Structure**
 ---
 
-Insuredge-Survey---Poll-Results-Visualize/
-│
-├── data/                         # 📁 Survey dataset (CSV / Google Form export)
-│   └── OIMS(gform_responses).csv
-│
-├── src/                          # 🧩 Modular Python scripts
-│   ├── data_loader.py            # Load dataset
-│   ├── data_cleaning.py          # Data cleaning & preprocessing
-│   ├── analysis.py               # Analysis logic (counts, averages, NPS)
-│   ├── visualization.py          # Chart generation functions
-│   └── insights.py               # Insight generation
-│
-├── images/                       # 🖼️ Output charts & screenshots
-│   ├── output1.png               # Usage Frequency Chart
-│   ├── output2.png               # Recommendation Distribution
-│   ├── output3.png               # Age Distribution
-│   ├── output4.png               # Ratings Comparison
-│   ├── output5.png               # Word Cloud
-│   ├── output6.png               # Additional Chart / Analysis
-│   ├── output7.png               # Additional Chart / Analysis
-│   ├── output8.png               # Dashboard Screenshot
-│   └── output9.png               # GitHub / Final Output View
-│
-├── main.py                       # 🧾 Main Python script (analysis execution)
-├── app.py                        # 🖥️ Streamlit dashboard
-├── requirements.txt              # 📦 Dependencies
-└── README.md                     # 📘 Project documentation
+<img width="998" height="745" alt="WhatsApp Image 2026-04-18 at 4 00 09 PM" src="https://github.com/user-attachments/assets/54801e62-ca26-4cd5-abf7-240acb68834a" />
 
 ---
 
@@ -211,7 +185,9 @@ Insuredge-Survey---Poll-Results-Visualize/
 
 **OR**, **Look at this demo**
 
+
 https://github.com/user-attachments/assets/67f4ae60-7dd8-4d6e-b597-19a5a7deaab3
+
 
 ---
 
